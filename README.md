@@ -1,4 +1,4 @@
-# Next-Level-Week-2
+# Next Level Week #2
 Desenvolvimento do aplicativo web "Proffy" seguindo as instruções da semana Next Level Week 2 da Rocketseat
 
 ## Feito com 
